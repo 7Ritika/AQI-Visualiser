@@ -16,3 +16,7 @@
 * The app will open in your default browser and you can start exploring the AQI values for different cities
 
 
+##Check the demo on:
+https://aqi-visualiser.onrender.com/
+
+
